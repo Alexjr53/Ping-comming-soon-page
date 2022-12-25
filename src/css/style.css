@@ -1,0 +1,93 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.header .logo{
+    text-align: center;
+    margin-top: 8rem;
+}
+
+.header .logo img{
+    margin-bottom: 4.5rem;
+}
+
+.header .logo .title{
+    font-size: 4.8rem;
+    font-weight: 300;
+    color: var(--secondary-text-color);
+}
+
+.header .logo .title span{
+    color: var(--primary-text-color);
+    font-weight: 600;
+}
+
+.header .logo .description {
+    font-size: 2rem;
+    margin-top: 1.5rem;
+}
+
+.header .subscribe-field{
+    display: flex;
+    margin-top: 4rem;
+}
+
+.header .subscribe-field input{
+    width: 42rem;
+    padding: 1.8rem 3rem;
+    border-radius: 5rem;
+    font-size: 1.6rem;
+    border: 1px solid var(--input-color);
+}
+
+.header .subscribe-field input::placeholder{
+    color: var(--input-color);
+}
+
+.header .subscribe-field span{
+    display: block;
+    font-size: 1.2rem;
+    color: var(--error-color);
+    padding: 1rem 3rem;
+}
+
+.header .subscribe-field .btn-notify{
+    margin-left: 1.7rem;
+    color: white;
+    font-size: 1.6rem;
+    background-color: var(--primary-color);
+    border: none;
+    border-radius: 10rem;
+    width: 20rem;
+    height: 5.8rem;
+    cursor: pointer;
+}
+
+.header .subscribe-field .btn-notify:hover{
+    opacity: 0.9;
+}
+
+.header .subscribe-field .invalid-message{
+    display: none;
+}
+
+.image-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 8.5rem;
+}
+
+.ilustration{
+    width: 63.5rem;
+}
+
+.footer{
+    height: 16.2vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: end;
+}

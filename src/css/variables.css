@@ -1,0 +1,7 @@
+:root{
+    --primary-color: hsl(223, 87%, 63%);
+    --primary-text-color:hsl(209, 33%, 12%);
+    --secondary-text-color:hsl(0, 0%, 59%);
+    --error-color:hsl(354, 100%, 66%);
+    --input-color:hsla(0, 0%, 59%, 0.562);
+}
