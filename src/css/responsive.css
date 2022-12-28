@@ -1,0 +1,76 @@
+@media(max-width: 745px){  
+    .header .logo img{
+        width: 7rem;
+    }
+
+    .header .logo .title{
+        font-size: 3.5rem;
+    }
+
+    .header .logo .description {
+        font-size: 1.8rem;
+    }
+    
+    .header .subscribe-field{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .header .subscribe-field .btn-notify{
+        margin-left: 0;
+        margin-top: 1.7rem;
+        width: 42rem;
+    }
+
+    .ilustration{
+        width: 45rem;
+    }
+}
+
+@media(max-width: 520px){
+    .header .logo img{
+        width: 5.5rem;
+        margin-bottom: 3.8rem;
+    }
+
+    .header .logo .title{
+        font-size: 2.2rem;
+    }
+
+    .header .logo .description {
+        font-size: 1.3rem;
+    }
+    
+    .header .subscribe-field{
+        margin-top: 3rem
+    }
+
+    .header .subscribe-field input{
+        width: 28rem;
+        height: 2rem;
+        font-size: 1.2rem;
+    }
+
+    .header .subscribe-field .btn-notify{
+        margin-top: 1.2rem;
+        width: 28rem;
+        height: 4rem;
+        font-size: 1.3rem;
+    }
+
+    .image-container{
+        margin-top: 7rem;
+    }
+
+    .ilustration{
+        width: 32rem;
+    }
+
+    .footer{
+        height: 25vh;
+    }
+
+    .footer .copyright-text{
+        font-size: 1rem;
+    }
+}
