@@ -35,7 +35,7 @@
     margin-top: 4rem;
 }
 
-.header .subscribe-field input{
+.header .subscribe-field .input{
     width: 42rem;
     padding: 1.8rem 3rem;
     border-radius: 5rem;
@@ -43,8 +43,13 @@
     border: 1px solid var(--neutral-soft-color);
 }
 
-.header .subscribe-field input::placeholder{
+.header .subscribe-field .input::placeholder{
     color: var(--neutral-soft-color);
+}
+
+.header .subscribe-field .input-invalid{
+    outline: auto;
+    outline-color: var(--error-color);
 }
 
 .header .subscribe-field span{
