@@ -54,7 +54,7 @@
 
 .header .subscribe-field span{
     display: block;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     color: var(--error-color);
     padding: 1rem 3rem;
 }
