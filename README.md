@@ -37,7 +37,7 @@ Esta é uma solução para o [Desafio Ping coming soon page do Frontend Mentor](
 ### Links
 
 - URL da página: [Ping coming soon page](https://alexjr53.github.io/Ping-comming-soon-page/) 
-- solução do projeto no frontend mentor: [Ping coming soon page]()
+- solução do projeto no frontend mentor: [Ping coming soon page](https://www.frontendmentor.io/solutions/ping-single-column-coming-soon-page-f-60pmhia_)
 
 ## Meu processo
 
@@ -49,7 +49,7 @@ Esta é uma solução para o [Desafio Ping coming soon page do Frontend Mentor](
 
 ### Desenvolvimento
 
-Atualmente estou usando desafios do frontend mentor apenas para praticar, aprimorando assim meus conhecimentos de HTML e CSS, para que no futuro possa aprimorar este e outros projetos também feitos a partir do frontend mentor.
+Atualmente estou usando desafios do frontend mentor apenas para praticar, aprimorando assim meus conhecimentos de HTML, CSS e JS, para que no futuro possa aprimorar este e outros projetos também feitos a partir do frontend mentor.
 
 ## Autor
 Alexsandro rosa junior
